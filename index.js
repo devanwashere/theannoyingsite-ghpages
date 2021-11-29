@@ -72,13 +72,7 @@ const VIDEOS = [
   'albundy.mp4',
   'badger.mp4',
   'cat.mp4',
-  'hasan.mp4',
-  'heman.mp4',
-  'jozin.mp4',
-  'nyan.mp4',
-  'rickroll.mp4',
-  'space.mp4',
-  'trolol.mp4'
+  'hasan.mp4'
 ]
 
 const FILE_DOWNLOADS = [
