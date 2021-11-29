@@ -69,22 +69,13 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'albundy.mp4',
-  'badger.mp4',
-  'cat.mp4',
-  'hasan.mp4'
+  'albundy.mp4'
 ]
 
 const FILE_DOWNLOADS = [
-  'cat-blue-eyes.jpg',
-  'cat-ceiling.jpg',
-  'cat-crosseyes.jpg',
-  'cat-cute.jpg',
-  'cat-hover.jpg',
-  'cat-marshmellows.jpg',
-  'cat-small-face.jpg',
-  'cat-smirk.jpg',
-  'patreon.png'
+  'what.png',
+  'not memz virus.bat',
+  'albundy.mp4'
 ]
 
 const PHRASES = [
@@ -95,7 +86,8 @@ const PHRASES = [
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
   'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
-  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
+  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo',
+  'Intro Okay, I know this is a really bad idea but Im already here so Here we fuckin go Rawr Verse 1 x3 nuzzles! pounces on you uwu you so warm Ooo Couldnt help but notice your bulge from across the floor Nuzzles yo necky wecky-tilde murr-tilde hehe Unzips yo baggy ass pants, oof baby you so musky Take me home, pet me, n make me yours and dont forget to stuff me! See me wag my widdle baby tail all for your buldgy-wuldgy! Kissies n lickies yo neck I hope daddy likies Nuzzles n wuzzles yo chest yuh I be yeah gettin thirsty Verse 2 Hey, I got a little itch, you think you can help me? Only seven inches long uwu, PLEASE ADOPT ME Paws on your buldge as I lick my lips UwU punish me please Boutta hit em with this furry shit He dont see it comin Intro Okay, I know this is a really bad idea but Im already here so Here we fuckin go Rawr Verse 1 x3 nuzzles! pounces on you uwu you so warm Ooo Couldnt help but notice your bulge from across the floor Nuzzles yo necky wecky-tilde murr-tilde hehe Unzips yo baggy ass pants, oof baby you so musky Take me home, pet me, n make me yours and dont forget to stuff me! See me wag my widdle baby tail all for your buldgy-wuldgy! Kissies n lickies yo neck I hope daddy likies Nuzzles n wuzzles yo chest yuh I be yeah gettin thirsty Verse 2 Hey, I got a little itch, you think you can help me? Only seven inches long uwu, PLEASE ADOPT ME Paws on your buldge as I lick my lips UwU punish me please Boutta hit em with this furry shit He dont see it comin'
 ]
 
 const LOGOUT_SITES = {
@@ -179,7 +171,7 @@ init()
  * window.
  */
 if (isChildWindow) initChildWindow()
-else initParentWindow()
+else initParentWindow() 
 
 /**
  * Initialization code for *both* parent and child windows.
